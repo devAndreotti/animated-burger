@@ -1,3 +1,4 @@
+<!-- Projeto Finalizado -->
 # 🛒 Cartão de Produto
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
@@ -26,12 +27,11 @@
 Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/animated-burger/).
 
 ## 🚀 Como Rodar o Projeto
-1. **Clone o Repositório**
+1. Clone o Repositório
    ```bash
    git clone https://github.com/devAndreotti/animated-burger.git
    ```
-2. **Abra o Arquivo HTML**
-   Abra o arquivo `index.html` em um navegador da sua escolha.
+2. Abra o arquivo `index.html` em um navegador da sua escolha.
 
 ## 📝 Contribuições
 Contribuições são bem-vindas! Siga estas etapas para colaborar:
