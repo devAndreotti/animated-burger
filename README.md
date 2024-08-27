@@ -17,21 +17,23 @@
 - **CSS3**: Estilização e animação do cartão de produto.
 - **JavaScript**: Alterna entre a imagem estática e a animação do produto.
 
-## 🚀 Como Rodar o Projeto
-1. **Clone o Repositório**
-   ```bash
-   git clone https://github.com/devAndreotti/animated-burger.git
-   cd seu-repositorio
-   ```
-2. **Abra o Arquivo HTML**
-   Abra o arquivo `index.html` em um navegador da sua escolha para visualizar o cartão de produto interativo.
-
 ## 📚 Recursos Adicionais
 - [MDN Web Docs - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [MDN Web Docs - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 - [MDN Web Docs - CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions)
 
-## 📢 Contribuições
+## 🔎 Demonstração
+Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/animated-burger/).
+
+## 🚀 Como Rodar o Projeto
+1. **Clone o Repositório**
+   ```bash
+   git clone https://github.com/devAndreotti/animated-burger.git
+   ```
+2. **Abra o Arquivo HTML**
+   Abra o arquivo `index.html` em um navegador da sua escolha.
+
+## 📝 Contribuições
 Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 1. Faça um fork do projeto.
