@@ -14,8 +14,8 @@
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estrutura básica da página e elementos.
-- **CSS3**: Estilização e animação do cartão de produto.
+- **HTML**: Estrutura básica da página e elementos.
+- **CSS**: Estilização e animação do cartão de produto.
 - **JavaScript**: Alterna entre a imagem estática e a animação do produto.
 
 ## 📚 Recursos Adicionais
@@ -44,3 +44,8 @@ Contribuições são bem-vindas! Siga estas etapas para colaborar:
 
 ## 📌 Nota
 Este projeto é para fins educacionais e demonstra a manipulação dinâmica de estilos com CSS e JavaScript. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
