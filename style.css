@@ -102,3 +102,31 @@ button {
 button:hover {
   transform: rotate(-5deg); /* Rotaciona o botão */
 }
+
+@media (max-width: 640px) {
+  body {
+    height: auto;
+    min-height: 100vh;
+    padding: 16px;
+  }
+
+  #app {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  #product-image,
+  #product-details {
+    width: 100%;
+  }
+
+  #product-image > img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 3;
+  }
+}
