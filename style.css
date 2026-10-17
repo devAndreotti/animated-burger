@@ -57,7 +57,8 @@ body {
     display: initial;
   }
 
-  #product-image > img {
+  #product-image > img,
+  #product-image > video {
     width: 400px;
     height: 300px;
     object-fit: cover;
@@ -124,7 +125,8 @@ button:hover {
     width: 100%;
   }
 
-  #product-image > img {
+  #product-image > img,
+  #product-image > video {
     width: 100%;
     height: auto;
     aspect-ratio: 4 / 3;
